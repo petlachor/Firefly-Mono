@@ -1,6 +1,6 @@
 # Firefly Mono
 
-> A monospaced font blending Fira Mono and Glow Sans.
+> A monospaced font blending [Fira Mono](https://github.com/mozilla/Fira) and [Glow Sans](https://github.com/welai/glow-sans).
 
 The glyph `0` is from [Fira Code](https://github.com/tonsky/FiraCode).  
 
