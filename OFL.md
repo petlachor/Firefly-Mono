@@ -3,7 +3,7 @@
   - Fira Mono: https://github.com/mozilla/Fira
   - Fira Code: https://github.com/tonsky/FiraCode
   - For more information, see "LICENSE_\<FontName\>" file contained in the "sources" directory.
-- The "Firefly Mono" generate script is licensed under the MIT license.  
+- The "Firefly Mono" generate scripts are licensed under the [MIT license](LICENSE).  
 
 # Licensing
 
